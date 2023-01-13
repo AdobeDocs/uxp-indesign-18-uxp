@@ -11,7 +11,7 @@
  */
 
 module.exports = {
-  pathPrefix: process.env.PATH_PREFIX || '/indesign-test/uxp/uxp_ref/',
+  pathPrefix: process.env.PATH_PREFIX || '/indesigntest/uxp/uxp_ref/',
   siteMetadata: {
     pages: [
       {
@@ -19,51 +19,51 @@ module.exports = {
         path: '/'
       },
       {
-        title: 'UXP for indesign-test',
-        path: '/indesign-test/uxp/'
+        title: 'UXP for indesigntest',
+        path: '/indesigntest/uxp/'
       },
       {
         title: 'Guides',
-        path: '/indesign-test/uxp/guides/'
+        path: '/indesigntest/uxp/guides/'
       },
       {
         title: 'Plugins',
-        path: '/indesign-test/uxp/plugins/'
+        path: '/indesigntest/uxp/plugins/'
       },
       {
-        title: 'indesign-test Server',
-        path: '/indesign-test/uxp/server/'
+        title: 'indesigntest Server',
+        path: '/indesigntest/uxp/server/'
       },
       {
         title: 'References',
         menu: [
           {
             title: 'UXP API',
-            path: '/indesign-test/uxp/uxp_ref/',
+            path: '/indesigntest/uxp/uxp_ref/',
           },
           {
-            title: 'indesign-test API',
-            path: '/indesign-test/dom/',
+            title: 'indesigntest API',
+            path: '/indesigntest/dom/',
           },
           {
             title: 'Recipes',
-            path: '/indesign-test/uxp/reference/recipes/'
+            path: '/indesigntest/uxp/reference/recipes/'
           }
         ]
       },
       {
         title: 'Code Samples',
-        path: '/indesign-test/uxp/reference/uxp-scripting-samples/'
+        path: '/indesigntest/uxp/reference/uxp-scripting-samples/'
       },
       {
         title: 'Support',
-        path: '/indesign-test/uxp/support/'
+        path: '/indesigntest/uxp/support/'
       }
     ],
     subPages: [
       {
         title: "UXP API Reference",
-        path: "/indesign-test/uxp/uxp_ref/",
+        path: "/indesigntest/uxp/uxp_ref/",
         header: true,
         pages: [
           {
