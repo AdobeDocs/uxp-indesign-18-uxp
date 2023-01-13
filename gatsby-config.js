@@ -11,7 +11,7 @@
  */
 
 module.exports = {
-  pathPrefix: process.env.PATH_PREFIX || '/indesign/uxp/uxp_ref/',
+  pathPrefix: process.env.PATH_PREFIX || '/indesign-test/uxp/uxp_ref/',
   siteMetadata: {
     pages: [
       {
@@ -19,51 +19,51 @@ module.exports = {
         path: '/'
       },
       {
-        title: 'UXP for InDesign',
-        path: '/indesign/uxp/'
+        title: 'UXP for indesign-test',
+        path: '/indesign-test/uxp/'
       },
       {
         title: 'Guides',
-        path: '/indesign/uxp/guides/'
+        path: '/indesign-test/uxp/guides/'
       },
       {
         title: 'Plugins',
-        path: '/indesign/uxp/plugins/'
+        path: '/indesign-test/uxp/plugins/'
       },
       {
-        title: 'InDesign Server',
-        path: '/indesign/uxp/server/'
+        title: 'indesign-test Server',
+        path: '/indesign-test/uxp/server/'
       },
       {
         title: 'References',
         menu: [
           {
             title: 'UXP API',
-            path: '/indesign/uxp/uxp_ref/',
+            path: '/indesign-test/uxp/uxp_ref/',
           },
           {
-            title: 'InDesign API',
-            path: '/indesign/dom/',
+            title: 'indesign-test API',
+            path: '/indesign-test/dom/',
           },
           {
             title: 'Recipes',
-            path: '/indesign/uxp/reference/recipes/'
+            path: '/indesign-test/uxp/reference/recipes/'
           }
         ]
       },
       {
         title: 'Code Samples',
-        path: '/indesign/uxp/reference/uxp-scripting-samples/'
+        path: '/indesign-test/uxp/reference/uxp-scripting-samples/'
       },
       {
         title: 'Support',
-        path: '/indesign/uxp/support/'
+        path: '/indesign-test/uxp/support/'
       }
     ],
     subPages: [
       {
         title: "UXP API Reference",
-        path: "/indesign/uxp/uxp_ref/",
+        path: "/indesign-test/uxp/uxp_ref/",
         header: true,
         pages: [
           {
