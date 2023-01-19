@@ -16,79 +16,79 @@ module.exports = {
     pages: [
       {
         title: 'UXP API',
-        path: '/'
+        path: '../indesigntest/'
       },
       {
         title: 'UXP for indesigntest',
-        path: '/indesigntest/uxp/'
+        path: '../indesigntest/uxp/'
       },
       {
         title: 'Guides',
-        path: '/indesigntest/uxp/guides/'
+        path: '../indesigntest/uxp/guides/'
       },
       {
         title: 'Plugins',
-        path: '/indesigntest/uxp/plugins/'
+        path: '../indesigntest/uxp/plugins/'
       },
       {
         title: 'indesigntest Server',
-        path: '/indesigntest/uxp/server/'
+        path: '../indesigntest/uxp/server/'
       },
       {
         title: 'References',
         menu: [
           {
             title: 'UXP API',
-            path: '/indesigntest/uxp/uxp_ref/',
+            path: '/uxp/uxp_ref/',
           },
           {
             title: 'indesigntest API',
-            path: '/indesigntest/dom/',
+            path: '/dom/',
           },
           {
             title: 'Recipes',
-            path: '/indesigntest/uxp/reference/recipes/'
+            path: '/uxp/reference/recipes/'
           }
         ]
       },
       {
         title: 'Code Samples',
-        path: '/indesigntest/uxp/reference/uxp-scripting-samples/'
+        path: '/uxp/reference/uxp-scripting-samples/'
       },
       {
         title: 'Support',
-        path: '/indesigntest/uxp/support/'
+        path: '/uxp/support/'
       }
     ],
     subPages: [
       {
         title: "UXP API Reference",
-        path: "/indesigntest/uxp/uxp_ref/",
+        path: "/uxp/uxp_ref/",
         header: true,
         pages: [
           {
             title: "JavaScript Reference",
-            path: "/reference-js/",
+            path: "/uxp/reference-js/",
             pages: require("./reference-js.js"),
           },
           {
             title: "CSS Reference",
-            path: "/reference-css/",
+            path: "/uxp/reference-css/",
             pages: require("./reference-css.js"),
           },
           {
             title: "HTML Reference",
-            path: "/reference-html/",
+            path: "/uxp/reference-html/",
             pages: require("./reference-html.js"),
           },
           {
             title: "Spectrum UXP Reference",
-            path: "/reference-spectrum/",
+            path: "/uxp/reference-spectrum/",
             pages: require("./reference-spectrum.js"),
           },
           {
             title: "Known Issues",
-            path: "/known-issues/",
+            path: "/uxp/known-issues/",
           },
         ],
       },
