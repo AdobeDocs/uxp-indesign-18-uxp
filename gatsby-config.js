@@ -16,7 +16,7 @@ module.exports = {
     pages: [
       {
         title: 'UXP API',
-        path: '../indesigntest/'
+        path: '../indesigntest/uxp/'
       },
       {
         title: 'UXP for indesigntest',
