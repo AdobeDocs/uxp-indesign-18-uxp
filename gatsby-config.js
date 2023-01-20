@@ -11,7 +11,7 @@
  */
 
 module.exports = {
-  pathPrefix: process.env.PATH_PREFIX || '/indesigntest/uxp/uxp_ref/',
+  pathPrefix: process.env.PATH_PREFIX || '/indesigntest/uxp/uxp/',
   siteMetadata: {
     pages: [
       {
@@ -88,7 +88,7 @@ module.exports = {
           },
           {
             title: "Known Issues",
-            path: "/indesigntest/uxp/known-issues/",
+            path: "/known-issues/",
           },
         ],
       },
