@@ -5,18 +5,18 @@ module.exports=[
     "pages": [
       {
         "title": "calc",
-        "path": "/uxp/reference-css/General/calc/"
+        "path": "/overview/reference-css/General/calc/"
       },
       {
         "title": "variables",
-        "path": "/uxp/reference-css/General/variables/"
+        "path": "/overview/reference-css/General/variables/"
       },
       {
         "title": "units",
-        "path": "/uxp/reference-css/General/units/"
+        "path": "/overview/reference-css/General/units/"
       }
     ],
-    "path": "/uxp/reference-css/General/"
+    "path": "/overview/reference-css/General/"
   },
   {
     "title": "Selectors",
@@ -24,42 +24,42 @@ module.exports=[
     "pages": [
       {
         "title": "Adjacent Sibling combinator",
-        "path": "/uxp/reference-css/Selectors/Adjacent Sibling combinator/"
+        "path": "/overview/reference-css/Selectors/Adjacent Sibling combinator/"
       },
       {
         "title": "Attribute selector",
-        "path": "/uxp/reference-css/Selectors/Attribute selector/"
+        "path": "/overview/reference-css/Selectors/Attribute selector/"
       },
       {
         "title": "Child combinator",
-        "path": "/uxp/reference-css/Selectors/Child combinator/"
+        "path": "/overview/reference-css/Selectors/Child combinator/"
       },
       {
         "title": "Class selector",
-        "path": "/uxp/reference-css/Selectors/Class selector/"
+        "path": "/overview/reference-css/Selectors/Class selector/"
       },
       {
         "title": "Descendant combinator",
-        "path": "/uxp/reference-css/Selectors/Descendant combinator/"
+        "path": "/overview/reference-css/Selectors/Descendant combinator/"
       },
       {
         "title": "General Sibling combinator",
-        "path": "/uxp/reference-css/Selectors/General Sibling combinator/"
+        "path": "/overview/reference-css/Selectors/General Sibling combinator/"
       },
       {
         "title": "Identifier selector",
-        "path": "/uxp/reference-css/Selectors/Identifier selector/"
+        "path": "/overview/reference-css/Selectors/Identifier selector/"
       },
       {
         "title": "Type selector",
-        "path": "/uxp/reference-css/Selectors/Type selector/"
+        "path": "/overview/reference-css/Selectors/Type selector/"
       },
       {
         "title": "Universal selector",
-        "path": "/uxp/reference-css/Selectors/Universal selector/"
+        "path": "/overview/reference-css/Selectors/Universal selector/"
       }
     ],
-    "path": "/uxp/reference-css/Selectors/"
+    "path": "/overview/reference-css/Selectors/"
   },
   {
     "title": "Media Queries",
@@ -67,18 +67,18 @@ module.exports=[
     "pages": [
       {
         "title": "height",
-        "path": "/uxp/reference-css/Media Queries/height/"
+        "path": "/overview/reference-css/Media Queries/height/"
       },
       {
         "title": "prefers-color-scheme",
-        "path": "/uxp/reference-css/Media Queries/prefers-color-scheme/"
+        "path": "/overview/reference-css/Media Queries/prefers-color-scheme/"
       },
       {
         "title": "width",
-        "path": "/uxp/reference-css/Media Queries/width/"
+        "path": "/overview/reference-css/Media Queries/width/"
       }
     ],
-    "path": "/uxp/reference-css/Media Queries/"
+    "path": "/overview/reference-css/Media Queries/"
   },
   {
     "title": "Pseudo-elements",
@@ -86,14 +86,14 @@ module.exports=[
     "pages": [
       {
         "title": "after",
-        "path": "/uxp/reference-css/Pseudo-elements/after/"
+        "path": "/overview/reference-css/Pseudo-elements/after/"
       },
       {
         "title": "before",
-        "path": "/uxp/reference-css/Pseudo-elements/before/"
+        "path": "/overview/reference-css/Pseudo-elements/before/"
       }
     ],
-    "path": "/uxp/reference-css/Pseudo-elements/"
+    "path": "/overview/reference-css/Pseudo-elements/"
   },
   {
     "title": "Pseudo-classes",
@@ -101,66 +101,66 @@ module.exports=[
     "pages": [
       {
         "title": "active",
-        "path": "/uxp/reference-css/Pseudo-classes/active/"
+        "path": "/overview/reference-css/Pseudo-classes/active/"
       },
       {
         "title": "checked",
-        "path": "/uxp/reference-css/Pseudo-classes/checked/"
+        "path": "/overview/reference-css/Pseudo-classes/checked/"
       },
       {
         "title": "disabled",
-        "path": "/uxp/reference-css/Pseudo-classes/disabled/"
+        "path": "/overview/reference-css/Pseudo-classes/disabled/"
       },
       {
         "title": "enabled",
-        "path": "/uxp/reference-css/Pseudo-classes/enabled/"
+        "path": "/overview/reference-css/Pseudo-classes/enabled/"
       },
       {
         "title": "empty",
-        "path": "/uxp/reference-css/Pseudo-classes/empty/"
+        "path": "/overview/reference-css/Pseudo-classes/empty/"
       },
       {
         "title": "first-child",
-        "path": "/uxp/reference-css/Pseudo-classes/first-child/"
+        "path": "/overview/reference-css/Pseudo-classes/first-child/"
       },
       {
         "title": "focus",
-        "path": "/uxp/reference-css/Pseudo-classes/focus/"
+        "path": "/overview/reference-css/Pseudo-classes/focus/"
       },
       {
         "title": "hover",
-        "path": "/uxp/reference-css/Pseudo-classes/hover/"
+        "path": "/overview/reference-css/Pseudo-classes/hover/"
       },
       {
         "title": "last-child",
-        "path": "/uxp/reference-css/Pseudo-classes/last-child/"
+        "path": "/overview/reference-css/Pseudo-classes/last-child/"
       },
       {
         "title": "nth-child",
-        "path": "/uxp/reference-css/Pseudo-classes/nth-child/"
+        "path": "/overview/reference-css/Pseudo-classes/nth-child/"
       },
       {
         "title": "nth-last-child",
-        "path": "/uxp/reference-css/Pseudo-classes/nth-last-child/"
+        "path": "/overview/reference-css/Pseudo-classes/nth-last-child/"
       },
       {
         "title": "nth-last-of-type",
-        "path": "/uxp/reference-css/Pseudo-classes/nth-last-of-type/"
+        "path": "/overview/reference-css/Pseudo-classes/nth-last-of-type/"
       },
       {
         "title": "nth-of-type",
-        "path": "/uxp/reference-css/Pseudo-classes/nth-of-type/"
+        "path": "/overview/reference-css/Pseudo-classes/nth-of-type/"
       },
       {
         "title": "only-child",
-        "path": "/uxp/reference-css/Pseudo-classes/only-child/"
+        "path": "/overview/reference-css/Pseudo-classes/only-child/"
       },
       {
         "title": "root",
-        "path": "/uxp/reference-css/Pseudo-classes/root/"
+        "path": "/overview/reference-css/Pseudo-classes/root/"
       }
     ],
-    "path": "/uxp/reference-css/Pseudo-classes/"
+    "path": "/overview/reference-css/Pseudo-classes/"
   },
   {
     "title": "Styles",
@@ -168,301 +168,301 @@ module.exports=[
     "pages": [
       {
         "title": "align-content",
-        "path": "/uxp/reference-css/Styles/align-content/"
+        "path": "/overview/reference-css/Styles/align-content/"
       },
       {
         "title": "align-items",
-        "path": "/uxp/reference-css/Styles/align-items/"
+        "path": "/overview/reference-css/Styles/align-items/"
       },
       {
         "title": "align-self",
-        "path": "/uxp/reference-css/Styles/align-self/"
+        "path": "/overview/reference-css/Styles/align-self/"
       },
       {
         "title": "background-attachment",
-        "path": "/uxp/reference-css/Styles/background-attachment/"
+        "path": "/overview/reference-css/Styles/background-attachment/"
       },
       {
         "title": "background-color",
-        "path": "/uxp/reference-css/Styles/background-color/"
+        "path": "/overview/reference-css/Styles/background-color/"
       },
       {
         "title": "background-image",
-        "path": "/uxp/reference-css/Styles/background-image/"
+        "path": "/overview/reference-css/Styles/background-image/"
       },
       {
         "title": "background-repeat",
-        "path": "/uxp/reference-css/Styles/background-repeat/"
+        "path": "/overview/reference-css/Styles/background-repeat/"
       },
       {
         "title": "background-size",
-        "path": "/uxp/reference-css/Styles/background-size/"
+        "path": "/overview/reference-css/Styles/background-size/"
       },
       {
         "title": "background",
-        "path": "/uxp/reference-css/Styles/background/"
+        "path": "/overview/reference-css/Styles/background/"
       },
       {
         "title": "border-bottom-color",
-        "path": "/uxp/reference-css/Styles/border-bottom-color/"
+        "path": "/overview/reference-css/Styles/border-bottom-color/"
       },
       {
         "title": "border-bottom-left-radius",
-        "path": "/uxp/reference-css/Styles/border-bottom-left-radius/"
+        "path": "/overview/reference-css/Styles/border-bottom-left-radius/"
       },
       {
         "title": "border-bottom-right-radius",
-        "path": "/uxp/reference-css/Styles/border-bottom-right-radius/"
+        "path": "/overview/reference-css/Styles/border-bottom-right-radius/"
       },
       {
         "title": "border-bottom-style",
-        "path": "/uxp/reference-css/Styles/border-bottom-style/"
+        "path": "/overview/reference-css/Styles/border-bottom-style/"
       },
       {
         "title": "border-bottom-width",
-        "path": "/uxp/reference-css/Styles/border-bottom-width/"
+        "path": "/overview/reference-css/Styles/border-bottom-width/"
       },
       {
         "title": "border-bottom",
-        "path": "/uxp/reference-css/Styles/border-bottom/"
+        "path": "/overview/reference-css/Styles/border-bottom/"
       },
       {
         "title": "border-color",
-        "path": "/uxp/reference-css/Styles/border-color/"
+        "path": "/overview/reference-css/Styles/border-color/"
       },
       {
         "title": "border-left-color",
-        "path": "/uxp/reference-css/Styles/border-left-color/"
+        "path": "/overview/reference-css/Styles/border-left-color/"
       },
       {
         "title": "border-left-style",
-        "path": "/uxp/reference-css/Styles/border-left-style/"
+        "path": "/overview/reference-css/Styles/border-left-style/"
       },
       {
         "title": "border-left-width",
-        "path": "/uxp/reference-css/Styles/border-left-width/"
+        "path": "/overview/reference-css/Styles/border-left-width/"
       },
       {
         "title": "border-left",
-        "path": "/uxp/reference-css/Styles/border-left/"
+        "path": "/overview/reference-css/Styles/border-left/"
       },
       {
         "title": "border-radius",
-        "path": "/uxp/reference-css/Styles/border-radius/"
+        "path": "/overview/reference-css/Styles/border-radius/"
       },
       {
         "title": "border-right-color",
-        "path": "/uxp/reference-css/Styles/border-right-color/"
+        "path": "/overview/reference-css/Styles/border-right-color/"
       },
       {
         "title": "border-right-style",
-        "path": "/uxp/reference-css/Styles/border-right-style/"
+        "path": "/overview/reference-css/Styles/border-right-style/"
       },
       {
         "title": "border-right-width",
-        "path": "/uxp/reference-css/Styles/border-right-width/"
+        "path": "/overview/reference-css/Styles/border-right-width/"
       },
       {
         "title": "border-right",
-        "path": "/uxp/reference-css/Styles/border-right/"
+        "path": "/overview/reference-css/Styles/border-right/"
       },
       {
         "title": "border-style",
-        "path": "/uxp/reference-css/Styles/border-style/"
+        "path": "/overview/reference-css/Styles/border-style/"
       },
       {
         "title": "border-top-color",
-        "path": "/uxp/reference-css/Styles/border-top-color/"
+        "path": "/overview/reference-css/Styles/border-top-color/"
       },
       {
         "title": "border-top-left-radius",
-        "path": "/uxp/reference-css/Styles/border-top-left-radius/"
+        "path": "/overview/reference-css/Styles/border-top-left-radius/"
       },
       {
         "title": "border-top-style",
-        "path": "/uxp/reference-css/Styles/border-top-style/"
+        "path": "/overview/reference-css/Styles/border-top-style/"
       },
       {
         "title": "border-top-width",
-        "path": "/uxp/reference-css/Styles/border-top-width/"
+        "path": "/overview/reference-css/Styles/border-top-width/"
       },
       {
         "title": "border-top",
-        "path": "/uxp/reference-css/Styles/border-top/"
+        "path": "/overview/reference-css/Styles/border-top/"
       },
       {
         "title": "border-width",
-        "path": "/uxp/reference-css/Styles/border-width/"
+        "path": "/overview/reference-css/Styles/border-width/"
       },
       {
         "title": "bottom",
-        "path": "/uxp/reference-css/Styles/bottom/"
+        "path": "/overview/reference-css/Styles/bottom/"
       },
       {
         "title": "color",
-        "path": "/uxp/reference-css/Styles/color/"
+        "path": "/overview/reference-css/Styles/color/"
       },
       {
         "title": "display",
-        "path": "/uxp/reference-css/Styles/display/"
+        "path": "/overview/reference-css/Styles/display/"
       },
       {
         "title": "flex-basis",
-        "path": "/uxp/reference-css/Styles/flex-basis/"
+        "path": "/overview/reference-css/Styles/flex-basis/"
       },
       {
         "title": "flex-direction",
-        "path": "/uxp/reference-css/Styles/flex-direction/"
+        "path": "/overview/reference-css/Styles/flex-direction/"
       },
       {
         "title": "flex-grow",
-        "path": "/uxp/reference-css/Styles/flex-grow/"
+        "path": "/overview/reference-css/Styles/flex-grow/"
       },
       {
         "title": "flex-shrink",
-        "path": "/uxp/reference-css/Styles/flex-shrink/"
+        "path": "/overview/reference-css/Styles/flex-shrink/"
       },
       {
         "title": "flex-wrap",
-        "path": "/uxp/reference-css/Styles/flex-wrap/"
+        "path": "/overview/reference-css/Styles/flex-wrap/"
       },
       {
         "title": "flex",
-        "path": "/uxp/reference-css/Styles/flex/"
+        "path": "/overview/reference-css/Styles/flex/"
       },
       {
         "title": "font-family",
-        "path": "/uxp/reference-css/Styles/font-family/"
+        "path": "/overview/reference-css/Styles/font-family/"
       },
       {
         "title": "font-size",
-        "path": "/uxp/reference-css/Styles/font-size/"
+        "path": "/overview/reference-css/Styles/font-size/"
       },
       {
         "title": "font-style",
-        "path": "/uxp/reference-css/Styles/font-style/"
+        "path": "/overview/reference-css/Styles/font-style/"
       },
       {
         "title": "font-weight",
-        "path": "/uxp/reference-css/Styles/font-weight/"
+        "path": "/overview/reference-css/Styles/font-weight/"
       },
       {
         "title": "height",
-        "path": "/uxp/reference-css/Styles/height/"
+        "path": "/overview/reference-css/Styles/height/"
       },
       {
         "title": "justify-content",
-        "path": "/uxp/reference-css/Styles/justify-content/"
+        "path": "/overview/reference-css/Styles/justify-content/"
       },
       {
         "title": "left",
-        "path": "/uxp/reference-css/Styles/left/"
+        "path": "/overview/reference-css/Styles/left/"
       },
       {
         "title": "letter-spacing",
-        "path": "/uxp/reference-css/Styles/letter-spacing/"
+        "path": "/overview/reference-css/Styles/letter-spacing/"
       },
       {
         "title": "margin-bottom",
-        "path": "/uxp/reference-css/Styles/margin-bottom/"
+        "path": "/overview/reference-css/Styles/margin-bottom/"
       },
       {
         "title": "margin-left",
-        "path": "/uxp/reference-css/Styles/margin-left/"
+        "path": "/overview/reference-css/Styles/margin-left/"
       },
       {
         "title": "margin-right",
-        "path": "/uxp/reference-css/Styles/margin-right/"
+        "path": "/overview/reference-css/Styles/margin-right/"
       },
       {
         "title": "margin-top",
-        "path": "/uxp/reference-css/Styles/margin-top/"
+        "path": "/overview/reference-css/Styles/margin-top/"
       },
       {
         "title": "margin",
-        "path": "/uxp/reference-css/Styles/margin/"
+        "path": "/overview/reference-css/Styles/margin/"
       },
       {
         "title": "max-height",
-        "path": "/uxp/reference-css/Styles/max-height/"
+        "path": "/overview/reference-css/Styles/max-height/"
       },
       {
         "title": "max-width",
-        "path": "/uxp/reference-css/Styles/max-width/"
+        "path": "/overview/reference-css/Styles/max-width/"
       },
       {
         "title": "min-height",
-        "path": "/uxp/reference-css/Styles/min-height/"
+        "path": "/overview/reference-css/Styles/min-height/"
       },
       {
         "title": "min-width",
-        "path": "/uxp/reference-css/Styles/min-width/"
+        "path": "/overview/reference-css/Styles/min-width/"
       },
       {
         "title": "opacity",
-        "path": "/uxp/reference-css/Styles/opacity/"
+        "path": "/overview/reference-css/Styles/opacity/"
       },
       {
         "title": "overflow-x",
-        "path": "/uxp/reference-css/Styles/overflow-x/"
+        "path": "/overview/reference-css/Styles/overflow-x/"
       },
       {
         "title": "overflow-y",
-        "path": "/uxp/reference-css/Styles/overflow-y/"
+        "path": "/overview/reference-css/Styles/overflow-y/"
       },
       {
         "title": "overflow",
-        "path": "/uxp/reference-css/Styles/overflow/"
+        "path": "/overview/reference-css/Styles/overflow/"
       },
       {
         "title": "padding-bottom",
-        "path": "/uxp/reference-css/Styles/padding-bottom/"
+        "path": "/overview/reference-css/Styles/padding-bottom/"
       },
       {
         "title": "padding-left",
-        "path": "/uxp/reference-css/Styles/padding-left/"
+        "path": "/overview/reference-css/Styles/padding-left/"
       },
       {
         "title": "padding-right",
-        "path": "/uxp/reference-css/Styles/padding-right/"
+        "path": "/overview/reference-css/Styles/padding-right/"
       },
       {
         "title": "padding-top",
-        "path": "/uxp/reference-css/Styles/padding-top/"
+        "path": "/overview/reference-css/Styles/padding-top/"
       },
       {
         "title": "padding",
-        "path": "/uxp/reference-css/Styles/padding/"
+        "path": "/overview/reference-css/Styles/padding/"
       },
       {
         "title": "right",
-        "path": "/uxp/reference-css/Styles/right/"
+        "path": "/overview/reference-css/Styles/right/"
       },
       {
         "title": "text-align",
-        "path": "/uxp/reference-css/Styles/text-align/"
+        "path": "/overview/reference-css/Styles/text-align/"
       },
       {
         "title": "text-overflow",
-        "path": "/uxp/reference-css/Styles/text-overflow/"
+        "path": "/overview/reference-css/Styles/text-overflow/"
       },
       {
         "title": "top",
-        "path": "/uxp/reference-css/Styles/top/"
+        "path": "/overview/reference-css/Styles/top/"
       },
       {
         "title": "visibility",
-        "path": "/uxp/reference-css/Styles/visibility/"
+        "path": "/overview/reference-css/Styles/visibility/"
       },
       {
         "title": "white-space",
-        "path": "/uxp/reference-css/Styles/white-space/"
+        "path": "/overview/reference-css/Styles/white-space/"
       },
       {
         "title": "width",
-        "path": "/uxp/reference-css/Styles/width/"
+        "path": "/overview/reference-css/Styles/width/"
       }
     ],
-    "path": "/uxp/reference-css/Styles/"
+    "path": "/overview/reference-css/Styles/"
   }
 ]

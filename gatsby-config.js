@@ -11,7 +11,7 @@
  */
 
 module.exports = {
-  pathPrefix: process.env.PATH_PREFIX || '/indesigntest/uxp/uxp/',
+  pathPrefix: process.env.PATH_PREFIX || '/indesigntest/uxp/uxp_ref/',
   siteMetadata: {
     pages: [
       {
@@ -39,7 +39,7 @@ module.exports = {
         menu: [
           {
             title: 'UXP API',
-            path: '/uxp/',
+            path: 'overview',
           },
           {
             title: 'indesigntest API',
@@ -63,27 +63,27 @@ module.exports = {
     subPages: [
       {
         title: "UXP API Reference",
-        path: "/uxp/",
+        path: "overview",
         header: true,
         pages: [
           {
             title: "JavaScript Reference",
-            path: "/uxp/reference-js/",
+            path: "overview/reference-js/",
             pages: require("./reference-js.js"),
           },
           {
             title: "CSS Reference",
-            path: "/uxp/reference-css/",
+            path: "overview/reference-css/",
             pages: require("./reference-css.js"),
           },
           {
             title: "HTML Reference",
-            path: "/uxp/reference-html/",
+            path: "overview/reference-html/",
             pages: require("./reference-html.js"),
           },
           {
             title: "Spectrum UXP Reference",
-            path: "/uxp/reference-spectrum/",
+            path: "overview/reference-spectrum/",
             pages: require("./reference-spectrum.js"),
           },
           {
