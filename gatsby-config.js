@@ -39,7 +39,7 @@ module.exports = {
         menu: [
           {
             title: 'UXP API',
-            path: '/_ROOT_/',
+            path: '/uxp/',
           },
           {
             title: 'indesigntest API',
@@ -63,27 +63,27 @@ module.exports = {
     subPages: [
       {
         title: "UXP API Reference",
-        path: "/_ROOT_/",
+        path: "/uxp/",
         header: true,
         pages: [
           {
             title: "JavaScript Reference",
-            path: "/reference-js/",
+            path: "/uxp/reference-js/",
             pages: require("./reference-js.js"),
           },
           {
             title: "CSS Reference",
-            path: "/reference-css/",
+            path: "/uxp/reference-css/",
             pages: require("./reference-css.js"),
           },
           {
             title: "HTML Reference",
-            path: "/reference-html/",
+            path: "/uxp/reference-html/",
             pages: require("./reference-html.js"),
           },
           {
             title: "Spectrum UXP Reference",
-            path: "/reference-spectrum/",
+            path: "/uxp/reference-spectrum/",
             pages: require("./reference-spectrum.js"),
           },
           {
