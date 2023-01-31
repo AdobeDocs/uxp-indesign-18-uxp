@@ -5,7 +5,7 @@ module.exports=[
     "pages": [
       {
         "title": "Crypto",
-        "path": "/overview/reference-js/Global Members/Crypto/"
+        "path": "/uxp/reference-js/Global Members/Crypto/"
       },
       {
         "title": "Data Transfers",
@@ -13,26 +13,26 @@ module.exports=[
         "pages": [
           {
             "title": "Blob",
-            "path": "/overview/reference-js/Global Members/Data Transfers/Blob/"
+            "path": "/uxp/reference-js/Global Members/Data Transfers/Blob/"
           },
           {
             "title": "Clipboard",
-            "path": "/overview/reference-js/Global Members/Data Transfers/Clipboard/"
+            "path": "/uxp/reference-js/Global Members/Data Transfers/Clipboard/"
           },
           {
             "title": "XMLHttpRequest",
-            "path": "/overview/reference-js/Global Members/Data Transfers/XMLHttpRequest/"
+            "path": "/uxp/reference-js/Global Members/Data Transfers/XMLHttpRequest/"
           },
           {
             "title": "WebSocket",
-            "path": "/overview/reference-js/Global Members/Data Transfers/WebSocket/"
+            "path": "/uxp/reference-js/Global Members/Data Transfers/WebSocket/"
           },
           {
             "title": "fetch",
-            "path": "/overview/reference-js/Global Members/Data Transfers/fetch/"
+            "path": "/uxp/reference-js/Global Members/Data Transfers/fetch/"
           }
         ],
-        "path": "/overview/reference-js/Global Members/Data Transfers/"
+        "path": "/uxp/reference-js/Global Members/Data Transfers/"
       },
       {
         "title": "Data Storage",
@@ -40,14 +40,14 @@ module.exports=[
         "pages": [
           {
             "title": "LocalStorage",
-            "path": "/overview/reference-js/Global Members/Data Storage/LocalStorage/"
+            "path": "/uxp/reference-js/Global Members/Data Storage/LocalStorage/"
           },
           {
             "title": "SessionStorage",
-            "path": "/overview/reference-js/Global Members/Data Storage/SessionStorage/"
+            "path": "/uxp/reference-js/Global Members/Data Storage/SessionStorage/"
           }
         ],
-        "path": "/overview/reference-js/Global Members/Data Storage/"
+        "path": "/uxp/reference-js/Global Members/Data Storage/"
       },
       {
         "title": "HTML Events",
@@ -55,50 +55,50 @@ module.exports=[
         "pages": [
           {
             "title": "BaseUIEvent",
-            "path": "/overview/reference-js/Global Members/HTML Events/BaseUIEvent/"
+            "path": "/uxp/reference-js/Global Members/HTML Events/BaseUIEvent/"
           },
           {
             "title": "CloseEvent",
-            "path": "/overview/reference-js/Global Members/HTML Events/CloseEvent/"
+            "path": "/uxp/reference-js/Global Members/HTML Events/CloseEvent/"
           },
           {
             "title": "DragEvent",
-            "path": "/overview/reference-js/Global Members/HTML Events/DragEvent/"
+            "path": "/uxp/reference-js/Global Members/HTML Events/DragEvent/"
           },
           {
             "title": "Event",
-            "path": "/overview/reference-js/Global Members/HTML Events/Event/"
+            "path": "/uxp/reference-js/Global Members/HTML Events/Event/"
           },
           {
             "title": "EventTarget",
-            "path": "/overview/reference-js/Global Members/HTML Events/EventTarget/"
+            "path": "/uxp/reference-js/Global Members/HTML Events/EventTarget/"
           },
           {
             "title": "GestureEvent",
-            "path": "/overview/reference-js/Global Members/HTML Events/GestureEvent/"
+            "path": "/uxp/reference-js/Global Members/HTML Events/GestureEvent/"
           },
           {
             "title": "KeyboardEvent",
-            "path": "/overview/reference-js/Global Members/HTML Events/KeyboardEvent/"
+            "path": "/uxp/reference-js/Global Members/HTML Events/KeyboardEvent/"
           },
           {
             "title": "MessageEvent",
-            "path": "/overview/reference-js/Global Members/HTML Events/MessageEvent/"
+            "path": "/uxp/reference-js/Global Members/HTML Events/MessageEvent/"
           },
           {
             "title": "PointerEvent",
-            "path": "/overview/reference-js/Global Members/HTML Events/PointerEvent/"
+            "path": "/uxp/reference-js/Global Members/HTML Events/PointerEvent/"
           },
           {
             "title": "ProgressEvent",
-            "path": "/overview/reference-js/Global Members/HTML Events/ProgressEvent/"
+            "path": "/uxp/reference-js/Global Members/HTML Events/ProgressEvent/"
           },
           {
             "title": "ErrorEvent",
-            "path": "/overview/reference-js/Global Members/HTML Events/ErrorEvent/"
+            "path": "/uxp/reference-js/Global Members/HTML Events/ErrorEvent/"
           }
         ],
-        "path": "/overview/reference-js/Global Members/HTML Events/"
+        "path": "/uxp/reference-js/Global Members/HTML Events/"
       },
       {
         "title": "HTML DOM",
@@ -106,58 +106,58 @@ module.exports=[
         "pages": [
           {
             "title": "DOMTokenList",
-            "path": "/overview/reference-js/Global Members/HTML DOM/DOMTokenList/"
+            "path": "/uxp/reference-js/Global Members/HTML DOM/DOMTokenList/"
           },
           {
             "title": "ClassList",
-            "path": "/overview/reference-js/Global Members/HTML DOM/ClassList/"
+            "path": "/uxp/reference-js/Global Members/HTML DOM/ClassList/"
           },
           {
             "title": "Attr",
-            "path": "/overview/reference-js/Global Members/HTML DOM/Attr/"
+            "path": "/uxp/reference-js/Global Members/HTML DOM/Attr/"
           },
           {
             "title": "CharacterData",
-            "path": "/overview/reference-js/Global Members/HTML DOM/CharacterData/"
+            "path": "/uxp/reference-js/Global Members/HTML DOM/CharacterData/"
           },
           {
             "title": "Comment",
-            "path": "/overview/reference-js/Global Members/HTML DOM/Comment/"
+            "path": "/uxp/reference-js/Global Members/HTML DOM/Comment/"
           },
           {
             "title": "Document",
-            "path": "/overview/reference-js/Global Members/HTML DOM/Document/"
+            "path": "/uxp/reference-js/Global Members/HTML DOM/Document/"
           },
           {
             "title": "DocumentFragment",
-            "path": "/overview/reference-js/Global Members/HTML DOM/DocumentFragment/"
+            "path": "/uxp/reference-js/Global Members/HTML DOM/DocumentFragment/"
           },
           {
             "title": "Element",
-            "path": "/overview/reference-js/Global Members/HTML DOM/Element/"
+            "path": "/uxp/reference-js/Global Members/HTML DOM/Element/"
           },
           {
             "title": "HTMLCollection",
-            "path": "/overview/reference-js/Global Members/HTML DOM/HTMLCollection/"
+            "path": "/uxp/reference-js/Global Members/HTML DOM/HTMLCollection/"
           },
           {
             "title": "NamedNodeMap",
-            "path": "/overview/reference-js/Global Members/HTML DOM/NamedNodeMap/"
+            "path": "/uxp/reference-js/Global Members/HTML DOM/NamedNodeMap/"
           },
           {
             "title": "Node",
-            "path": "/overview/reference-js/Global Members/HTML DOM/Node/"
+            "path": "/uxp/reference-js/Global Members/HTML DOM/Node/"
           },
           {
             "title": "NodeList",
-            "path": "/overview/reference-js/Global Members/HTML DOM/NodeList/"
+            "path": "/uxp/reference-js/Global Members/HTML DOM/NodeList/"
           },
           {
             "title": "Text",
-            "path": "/overview/reference-js/Global Members/HTML DOM/Text/"
+            "path": "/uxp/reference-js/Global Members/HTML DOM/Text/"
           }
         ],
-        "path": "/overview/reference-js/Global Members/HTML DOM/"
+        "path": "/uxp/reference-js/Global Members/HTML DOM/"
       },
       {
         "title": "HTML Elements",
@@ -165,93 +165,93 @@ module.exports=[
         "pages": [
           {
             "title": "HTMLAnchorElement",
-            "path": "/overview/reference-js/Global Members/HTML Elements/HTMLAnchorElement/"
+            "path": "/uxp/reference-js/Global Members/HTML Elements/HTMLAnchorElement/"
           },
           {
             "title": "HTMLBodyElement",
-            "path": "/overview/reference-js/Global Members/HTML Elements/HTMLBodyElement/"
+            "path": "/uxp/reference-js/Global Members/HTML Elements/HTMLBodyElement/"
           },
           {
             "title": "HTMLButtonElement",
-            "path": "/overview/reference-js/Global Members/HTML Elements/HTMLButtonElement/"
+            "path": "/uxp/reference-js/Global Members/HTML Elements/HTMLButtonElement/"
           },
           {
             "title": "HTMLDialogElement",
-            "path": "/overview/reference-js/Global Members/HTML Elements/HTMLDialogElement/"
+            "path": "/uxp/reference-js/Global Members/HTML Elements/HTMLDialogElement/"
           },
           {
             "title": "HTMLElement",
-            "path": "/overview/reference-js/Global Members/HTML Elements/HTMLElement/"
+            "path": "/uxp/reference-js/Global Members/HTML Elements/HTMLElement/"
           },
           {
             "title": "HTMLHeadElement",
-            "path": "/overview/reference-js/Global Members/HTML Elements/HTMLHeadElement/"
+            "path": "/uxp/reference-js/Global Members/HTML Elements/HTMLHeadElement/"
           },
           {
             "title": "HTMLHtmlElement",
-            "path": "/overview/reference-js/Global Members/HTML Elements/HTMLHtmlElement/"
+            "path": "/uxp/reference-js/Global Members/HTML Elements/HTMLHtmlElement/"
           },
           {
             "title": "HTMLImageElement",
-            "path": "/overview/reference-js/Global Members/HTML Elements/HTMLImageElement/"
+            "path": "/uxp/reference-js/Global Members/HTML Elements/HTMLImageElement/"
           },
           {
             "title": "HTMLInputElement",
-            "path": "/overview/reference-js/Global Members/HTML Elements/HTMLInputElement/"
+            "path": "/uxp/reference-js/Global Members/HTML Elements/HTMLInputElement/"
           },
           {
             "title": "HTMLLabelElement",
-            "path": "/overview/reference-js/Global Members/HTML Elements/HTMLLabelElement/"
+            "path": "/uxp/reference-js/Global Members/HTML Elements/HTMLLabelElement/"
           },
           {
             "title": "HTMLLinkElement",
-            "path": "/overview/reference-js/Global Members/HTML Elements/HTMLLinkElement/"
+            "path": "/uxp/reference-js/Global Members/HTML Elements/HTMLLinkElement/"
           },
           {
             "title": "HTMLMenuElement",
-            "path": "/overview/reference-js/Global Members/HTML Elements/HTMLMenuElement/"
+            "path": "/uxp/reference-js/Global Members/HTML Elements/HTMLMenuElement/"
           },
           {
             "title": "HTMLMenuItemElement",
-            "path": "/overview/reference-js/Global Members/HTML Elements/HTMLMenuItemElement/"
+            "path": "/uxp/reference-js/Global Members/HTML Elements/HTMLMenuItemElement/"
           },
           {
             "title": "HTMLOptionElement",
-            "path": "/overview/reference-js/Global Members/HTML Elements/HTMLOptionElement/"
+            "path": "/uxp/reference-js/Global Members/HTML Elements/HTMLOptionElement/"
           },
           {
             "title": "HTMLProgressElement",
-            "path": "/overview/reference-js/Global Members/HTML Elements/HTMLProgressElement/"
+            "path": "/uxp/reference-js/Global Members/HTML Elements/HTMLProgressElement/"
           },
           {
             "title": "HTMLScriptElement",
-            "path": "/overview/reference-js/Global Members/HTML Elements/HTMLScriptElement/"
+            "path": "/uxp/reference-js/Global Members/HTML Elements/HTMLScriptElement/"
           },
           {
             "title": "HTMLSelectElement",
-            "path": "/overview/reference-js/Global Members/HTML Elements/HTMLSelectElement/"
+            "path": "/uxp/reference-js/Global Members/HTML Elements/HTMLSelectElement/"
           },
           {
             "title": "HTMLStyleElement",
-            "path": "/overview/reference-js/Global Members/HTML Elements/HTMLStyleElement/"
+            "path": "/uxp/reference-js/Global Members/HTML Elements/HTMLStyleElement/"
           },
           {
             "title": "HTMLTextAreaElement",
-            "path": "/overview/reference-js/Global Members/HTML Elements/HTMLTextAreaElement/"
+            "path": "/uxp/reference-js/Global Members/HTML Elements/HTMLTextAreaElement/"
           },
           {
             "title": "HTMLWebViewElement",
-            "path": "/overview/reference-js/Global Members/HTML Elements/HTMLWebViewElement/"
+            "path": "/uxp/reference-js/Global Members/HTML Elements/HTMLWebViewElement/"
           }
         ],
-        "path": "/overview/reference-js/Global Members/HTML Elements/"
+        "path": "/uxp/reference-js/Global Members/HTML Elements/"
       },
       {
         "title": "Path",
-        "path": "/overview/reference-js/Global Members/Path/"
+        "path": "/uxp/reference-js/Global Members/Path/"
       }
     ],
-    "path": "/overview/reference-js/Global Members/"
+    "path": "/uxp/reference-js/Global Members/"
   },
   {
     "title": "Modules",
@@ -259,7 +259,7 @@ module.exports=[
     "pages": [
       {
         "title": "fs",
-        "path": "/overview/reference-js/Modules/FileSystem/"
+        "path": "/uxp/reference-js/Modules/FileSystem/"
       },
       {
         "title": "os",
@@ -267,10 +267,10 @@ module.exports=[
         "pages": [
           {
             "title": "OS",
-            "path": "/overview/reference-js/Modules/os/OS/"
+            "path": "/uxp/reference-js/Modules/os/OS/"
           }
         ],
-        "path": "/overview/reference-js/Modules/os/OS/"
+        "path": "/uxp/reference-js/Modules/os/OS/"
       },
       {
         "title": "shell",
@@ -278,13 +278,13 @@ module.exports=[
         "pages": [
           {
             "title": "Shell",
-            "path": "/overview/reference-js/Modules/shell/Shell/"
+            "path": "/uxp/reference-js/Modules/shell/Shell/"
           }
         ],
-        "path": "/overview/reference-js/Modules/shell/Shell/"
+        "path": "/uxp/reference-js/Modules/shell/Shell/"
       },
       {
-        "title": "overview",
+        "title": "uxp",
         "header": true,
         "pages": [
           {
@@ -293,34 +293,34 @@ module.exports=[
             "pages": [
               {
                 "title": "EntryPoints",
-                "path": "/overview/reference-js/Modules/overview/Entry Points/EntryPoints/"
+                "path": "/uxp/reference-js/Modules/uxp/Entry Points/EntryPoints/"
               },
               {
                 "title": "EntryPointsError",
-                "path": "/overview/reference-js/Modules/overview/Entry Points/EntryPointsError/"
+                "path": "/uxp/reference-js/Modules/uxp/Entry Points/EntryPointsError/"
               },
               {
-                "title": "overviewCommandInfo",
-                "path": "/overview/reference-js/Modules/overview/Entry Points/overviewCommandInfo/"
+                "title": "uxpCommandInfo",
+                "path": "/uxp/reference-js/Modules/uxp/Entry Points/uxpCommandInfo/"
               },
               {
-                "title": "overviewMenuItem",
-                "path": "/overview/reference-js/Modules/overview/Entry Points/overviewMenuItem/"
+                "title": "uxpMenuItem",
+                "path": "/uxp/reference-js/Modules/uxp/Entry Points/uxpMenuItem/"
               },
               {
-                "title": "overviewMenuItems",
-                "path": "/overview/reference-js/Modules/overview/Entry Points/overviewMenuItems/"
+                "title": "uxpMenuItems",
+                "path": "/uxp/reference-js/Modules/uxp/Entry Points/uxpMenuItems/"
               },
               {
-                "title": "overviewPanelInfo",
-                "path": "/overview/reference-js/Modules/overview/Entry Points/overviewPanelInfo/"
+                "title": "uxpPanelInfo",
+                "path": "/uxp/reference-js/Modules/uxp/Entry Points/uxpPanelInfo/"
               },
               {
-                "title": "overviewPluginInfo",
-                "path": "/overview/reference-js/Modules/overview/Entry Points/overviewPluginInfo/"
+                "title": "uxpPluginInfo",
+                "path": "/uxp/reference-js/Modules/uxp/Entry Points/uxpPluginInfo/"
               }
             ],
-            "path": "/overview/reference-js/Modules/overview/Entry Points/"
+            "path": "/uxp/reference-js/Modules/uxp/Entry Points/"
           },
           {
             "title": "Persistent File Storage",
@@ -328,54 +328,54 @@ module.exports=[
             "pages": [
               {
                 "title": "localFileSystem",
-                "path": "/overview/reference-js/Modules/overview/Persistent File Storage/localFileSystem/"
+                "path": "/uxp/reference-js/Modules/uxp/Persistent File Storage/localFileSystem/"
               },
               {
                 "title": "Entry",
-                "path": "/overview/reference-js/Modules/overview/Persistent File Storage/Entry/"
+                "path": "/uxp/reference-js/Modules/uxp/Persistent File Storage/Entry/"
               },
               {
                 "title": "EntryMetadata",
-                "path": "/overview/reference-js/Modules/overview/Persistent File Storage/EntryMetadata/"
+                "path": "/uxp/reference-js/Modules/uxp/Persistent File Storage/EntryMetadata/"
               },
               {
                 "title": "File",
-                "path": "/overview/reference-js/Modules/overview/Persistent File Storage/File/"
+                "path": "/uxp/reference-js/Modules/uxp/Persistent File Storage/File/"
               },
               {
                 "title": "Folder",
-                "path": "/overview/reference-js/Modules/overview/Persistent File Storage/Folder/"
+                "path": "/uxp/reference-js/Modules/uxp/Persistent File Storage/Folder/"
               },
               {
                 "title": "FileSystemProvider",
-                "path": "/overview/reference-js/Modules/overview/Persistent File Storage/FileSystemProvider/"
+                "path": "/uxp/reference-js/Modules/uxp/Persistent File Storage/FileSystemProvider/"
               },
               {
                 "title": "domains",
-                "path": "/overview/reference-js/Modules/overview/Persistent File Storage/domains/"
+                "path": "/uxp/reference-js/Modules/uxp/Persistent File Storage/domains/"
               },
               {
                 "title": "types",
-                "path": "/overview/reference-js/Modules/overview/Persistent File Storage/types/"
+                "path": "/uxp/reference-js/Modules/uxp/Persistent File Storage/types/"
               },
               {
                 "title": "formats",
-                "path": "/overview/reference-js/Modules/overview/Persistent File Storage/formats/"
+                "path": "/uxp/reference-js/Modules/uxp/Persistent File Storage/formats/"
               },
               {
                 "title": "modes",
-                "path": "/overview/reference-js/Modules/overview/Persistent File Storage/modes/"
+                "path": "/uxp/reference-js/Modules/uxp/Persistent File Storage/modes/"
               },
               {
                 "title": "fileTypes",
-                "path": "/overview/reference-js/Modules/overview/Persistent File Storage/fileTypes/"
+                "path": "/uxp/reference-js/Modules/uxp/Persistent File Storage/fileTypes/"
               },
               {
                 "title": "errors",
-                "path": "/overview/reference-js/Modules/overview/Persistent File Storage/errors/"
+                "path": "/uxp/reference-js/Modules/uxp/Persistent File Storage/errors/"
               }
             ],
-            "path": "/overview/reference-js/Modules/overview/Persistent File Storage/"
+            "path": "/uxp/reference-js/Modules/uxp/Persistent File Storage/"
           },
           {
             "title": "Plugin Manager",
@@ -383,18 +383,18 @@ module.exports=[
             "pages": [
               {
                 "title": "Plugin",
-                "path": "/overview/reference-js/Modules/overview/Plugin Manager/Plugin/"
+                "path": "/uxp/reference-js/Modules/uxp/Plugin Manager/Plugin/"
               },
               {
                 "title": "Plugin Manager",
-                "path": "/overview/reference-js/Modules/overview/Plugin Manager/PluginManager/"
+                "path": "/uxp/reference-js/Modules/uxp/Plugin Manager/PluginManager/"
               },
               {
                 "title": "Script",
-                "path": "/overview/reference-js/Modules/overview/Plugin Manager/Script/"
+                "path": "/uxp/reference-js/Modules/uxp/Plugin Manager/Script/"
               }
             ],
-            "path": "/overview/reference-js/Modules/overview/Plugin Manager/"
+            "path": "/uxp/reference-js/Modules/uxp/Plugin Manager/"
           },
           {
             "title": "Key-Value Storage",
@@ -402,10 +402,10 @@ module.exports=[
             "pages": [
               {
                 "title": "SecureStorage",
-                "path": "/overview/reference-js/Modules/overview/Key-Value Storage/SecureStorage/"
+                "path": "/uxp/reference-js/Modules/uxp/Key-Value Storage/SecureStorage/"
               }
             ],
-            "path": "/overview/reference-js/Modules/overview/Key-Value Storage/SecureStorage/"
+            "path": "/uxp/reference-js/Modules/uxp/Key-Value Storage/SecureStorage/"
           },
           {
             "title": "Versions",
@@ -413,10 +413,10 @@ module.exports=[
             "pages": [
               {
                 "title": "Versions",
-                "path": "/overview/reference-js/Modules/overview/Versions/Versions/"
+                "path": "/uxp/reference-js/Modules/uxp/Versions/Versions/"
               }
             ],
-            "path": "/overview/reference-js/Modules/overview/Versions/Versions/"
+            "path": "/uxp/reference-js/Modules/uxp/Versions/Versions/"
           },
           {
             "title": "Host Information",
@@ -424,15 +424,15 @@ module.exports=[
             "pages": [
               {
                 "title": "Host",
-                "path": "/overview/reference-js/Modules/overview/Host Information/Host/"
+                "path": "/uxp/reference-js/Modules/uxp/Host Information/Host/"
               }
             ],
-            "path": "/overview/reference-js/Modules/overview/Host Information/Host/"
+            "path": "/uxp/reference-js/Modules/uxp/Host Information/Host/"
           }
         ],
-        "path": "/overview/reference-js/Modules/overview/"
+        "path": "/uxp/reference-js/Modules/uxp/"
       }
     ],
-    "path": "/overview/reference-js/Modules/"
+    "path": "/uxp/reference-js/Modules/"
   }
 ]
