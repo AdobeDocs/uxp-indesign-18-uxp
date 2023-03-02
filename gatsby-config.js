@@ -59,7 +59,7 @@ module.exports = {
     subPages: [
       {
         title: "UXP API Reference",
-        path: "/indesign/uxp/uxp_ref/", // "/_ROOT_/", // 
+        path: "/indesign/uxp/uxp_ref/",
         header: true,
         pages: [
           {

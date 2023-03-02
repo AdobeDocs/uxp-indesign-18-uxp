@@ -4,12 +4,6 @@ index_desc: Change Log in UXP version
 
 # UXP Changelog
 
-## UXP v6.6
-
-### New
-- [UXP-20181] - Allow unrestricted relative paths in require from scripts
-- [UXP-19970](./reference-js/Modules/uxp/Persistent%20File%20Storage/FileSystemProvider.md#getentrywithurlurl) - getEntryWithUrl in LocalFileProvider
-
 ## UXP v6.4
 
 ### New
@@ -50,3 +44,4 @@ index_desc: Change Log in UXP version
 - [UXP-19665]: PS crashes with empty `<svg> <polygon>`
 - [UXP-19250]: Manifest v5 breaks file permissions dialog
 - Many stability Fixes and performance improvements
+  

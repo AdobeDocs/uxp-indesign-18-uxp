@@ -33,7 +33,7 @@
     "_copy-uxp-js": "rm -rf src/pages/reference-js && cp -r node_modules/uxp-documentation/_transclusions/photoshop/uxp/reference-js src/pages/ && cp node_modules/uxp-documentation/reference-js.js reference-js.js",
     "_copy-uxp-css": "rm -rf src/pages/reference-css && cp -r node_modules/uxp-documentation/_transclusions/photoshop/uxp/reference-css src/pages/ && cp node_modules/uxp-documentation/reference-css.js reference-css.js",
     "_copy-uxp": "npm run _copy-uxp-js && npm run _copy-uxp-css && npm run _copy-uxp-html && npm run _copy-uxp-spectrum",
-    "_copy-uxp-files": "cp node_modules/uxp-documentation/src/pages/uxp/*.md src/pages/",
+    "_copy-uxp-files": "cp node_modules/uxp-documentation/src/pages/uxp-ref/*.md src/pages/",
     "prepare-uxp": "npm run _copy-uxp && npm run _copy-uxp-files"
   },
   "packageManager": "yarn@3.2.1"
