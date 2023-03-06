@@ -28,12 +28,12 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "_copy-uxp-html": "rm -rf src/pages/api-ref/reference-html && cp -r node_modules/uxp-documentation/_transclusions/photoshop/uxp/reference-html src/pages/api-ref/ && cp node_modules/uxp-documentation/reference-html.js reference-html.js",
-    "_copy-uxp-spectrum": "rm -rf src/pages/api-ref/reference-spectrum && cp -r node_modules/uxp-documentation/_transclusions/photoshop/uxp/reference-spectrum src/pages/api-ref/ && cp node_modules/uxp-documentation/reference-spectrum.js reference-spectrum.js",
-    "_copy-uxp-js": "rm -rf src/pages/api-ref/reference-js && cp -r node_modules/uxp-documentation/_transclusions/photoshop/uxp/reference-js src/pages/api-ref/ && cp node_modules/uxp-documentation/reference-js.js reference-js.js",
-    "_copy-uxp-css": "rm -rf src/pages/api-ref/reference-css && cp -r node_modules/uxp-documentation/_transclusions/photoshop/uxp/reference-css src/pages/api-ref/ && cp node_modules/uxp-documentation/reference-css.js reference-css.js",
+    "_copy-uxp-html": "rm -rf src/pages/api/reference-html && cp -r node_modules/uxp-documentation/_transclusions/photoshop/uxp/reference-html src/pages/api/ && cp node_modules/uxp-documentation/reference-html.js reference-html.js",
+    "_copy-uxp-spectrum": "rm -rf src/pages/api/reference-spectrum && cp -r node_modules/uxp-documentation/_transclusions/photoshop/uxp/reference-spectrum src/pages/api/ && cp node_modules/uxp-documentation/reference-spectrum.js reference-spectrum.js",
+    "_copy-uxp-js": "rm -rf src/pages/api/reference-js && cp -r node_modules/uxp-documentation/_transclusions/photoshop/uxp/reference-js src/pages/api/ && cp node_modules/uxp-documentation/reference-js.js reference-js.js",
+    "_copy-uxp-css": "rm -rf src/pages/api/reference-css && cp -r node_modules/uxp-documentation/_transclusions/photoshop/uxp/reference-css src/pages/api/ && cp node_modules/uxp-documentation/reference-css.js reference-css.js",
     "_copy-uxp": "npm run _copy-uxp-js && npm run _copy-uxp-css && npm run _copy-uxp-html && npm run _copy-uxp-spectrum",
-    "_copy-uxp-files": "cp node_modules/uxp-documentation/src/pages/api-ref/*.md src/pages/api-ref/",
+    "_copy-uxp-files": "cp node_modules/uxp-documentation/src/pages/api/*.md src/pages/api/",
     "prepare-uxp": "npm run _copy-uxp && npm run _copy-uxp-files"
   },
   "packageManager": "yarn@3.2.1"

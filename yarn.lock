@@ -19220,8 +19220,8 @@ __metadata:
 
 "uxp-documentation@github:adobedocs/uxp#repo-structure":
   version: 6.4.0
-  resolution: "uxp-documentation@https://github.com/adobedocs/uxp.git#commit=43afa76abd3edbc3460f7893e94e15df8de6a4ab"
-  checksum: f2c9a55c81453a8d81682a9addd01b0e384b881fd8cf81501ee7723548d7475cc71e82040952eb2a7e1a15e7b9f957c2895d6f013179195003b7f517ff5d2d2a
+  resolution: "uxp-documentation@https://github.com/adobedocs/uxp.git#commit=ba73bf80a5e740d4ee841fb51525a6657e4fe145"
+  checksum: d7d62f5e58f630c13193811918351b4f8a5dc81c570a2cbdac4c1a96afed1b608e15ffa27586ab2b962daa8b4cc6e05b8efde165b1154e018cb474d6a0e7e939
   languageName: node
   linkType: hard
 
