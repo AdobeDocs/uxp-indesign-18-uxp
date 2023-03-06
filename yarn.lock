@@ -7526,7 +7526,7 @@ __metadata:
     gatsby: 4.22.0
     react: ^17.0.0
     react-dom: ^17.0.0
-    uxp-documentation: "github:adobedocs/uxp#repo-structure"
+    uxp-documentation: "github:adobedocs/uxp#v6.5.2"
   languageName: unknown
   linkType: soft
 
@@ -19218,10 +19218,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"uxp-documentation@github:adobedocs/uxp#repo-structure":
-  version: 6.4.0
-  resolution: "uxp-documentation@https://github.com/adobedocs/uxp.git#commit=ba73bf80a5e740d4ee841fb51525a6657e4fe145"
-  checksum: d7d62f5e58f630c13193811918351b4f8a5dc81c570a2cbdac4c1a96afed1b608e15ffa27586ab2b962daa8b4cc6e05b8efde165b1154e018cb474d6a0e7e939
+"uxp-documentation@github:adobedocs/uxp#v6.5.2":
+  version: 6.5.2
+  resolution: "uxp-documentation@https://github.com/adobedocs/uxp.git#commit=7d343ce716389308d4ca315b8f068df2abc56500"
+  checksum: 04321aaf8fe103111d9b182242a2198fb8b54605e3cfd3af94b1757028797780fcae18f353836b8121065ff63e5de84c16a864bdf06f0ff74c846299f22abb12
   languageName: node
   linkType: hard
 

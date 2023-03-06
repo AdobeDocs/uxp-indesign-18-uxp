@@ -11,7 +11,7 @@
  */
 
 module.exports = {
-  pathPrefix: process.env.PATH_PREFIX || '/indesign/uxp/uxp_ref/',
+  pathPrefix: process.env.PATH_PREFIX || '/indesign/uxp/reference/',
   siteMetadata: {
     pages: [
       {
@@ -31,7 +31,7 @@ module.exports = {
         menu: [
           {
             title: 'UXP API',
-            path: 'api',
+            path: 'uxp-api',
           },
           {
             title: 'InDesign API',
@@ -60,27 +60,27 @@ module.exports = {
         pages: [
           {
             title: "JavaScript Reference",
-            path: "/api/reference-js/",
+            path: "/uxp-api/reference-js/",
             pages: require("./reference-js.js"),
           },
           {
             title: "CSS Reference",
-            path: "/api/reference-css/",
+            path: "/uxp-api/reference-css/",
             pages: require("./reference-css.js"),
           },
           {
             title: "HTML Reference",
-            path: "/api/reference-html/",
+            path: "/uxp-api/reference-html/",
             pages: require("./reference-html.js"),
           },
           {
             title: "Spectrum UXP Reference",
-            path: "/api/reference-spectrum/",
+            path: "/uxp-api/reference-spectrum/",
             pages: require("./reference-spectrum.js"),
           },
           {
             title: "Known Issues",
-            path: "/api/known-issues/",
+            path: "/uxp-api/known-issues/",
           },
         ],
       },
