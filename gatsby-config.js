@@ -11,100 +11,79 @@
  */
 
 module.exports = {
-  pathPrefix: process.env.PATH_PREFIX || '/indesign/uxp/uxp_ref/',
+  pathPrefix: process.env.PATH_PREFIX || '/indesign/uxp/reference/',
   siteMetadata: {
-    versions: [
-      {
-        title: 'v2.0',
-        selected: true
-      },
-      {
-        title: 'v1.4',
-        path: 'https://github.com/AdobeDocs/dev-site'
-      }
-    ],
     pages: [
       {
-        title: 'Cat Analytics',
-        path: '/'
-      },
-      {
         title: 'Guides',
-        path: '/guides/'
+        path: '/indesign/uxp/guides/'
       },
       {
-        title: 'API Reference',
+        title: 'Plugins',
+        path: '/indesign/uxp/plugins/'
+      },
+      {
+        title: 'InDesign Server',
+        path: '/indesign/uxp/server/'
+      },
+      {
+        title: 'References',
         menu: [
           {
-            title: 'Cat Reference v2.0',
-            description: 'Cat Reporting API',
-            path: '/api/index.md'
+            title: 'UXP API',
+            path: 'uxp-api',
           },
           {
-            title: 'Cat Reference v1.4',
-            description: 'Cat API Spec',
-            path: '/api/1.4.md'
+            title: 'InDesign API',
+            path: '/indesign/dom/',
+          },
+          {
+            title: 'Recipes',
+            path: '/indesign/uxp/reference/recipes/'
           }
         ]
       },
       {
+        title: 'Code Samples',
+        path: '/indesign/uxp/reference/uxp-scripting-samples/'
+      },
+      {
         title: 'Support',
-        path: '/support/'
+        path: '/indesign/uxp/support/'
       }
     ],
     subPages: [
       {
-        title: 'Get Started',
-        path: '/guides/',
-        pages: [
-          {
-            title: 'Dummy an OAuth Client',
-            path: '/guides/dummy_oauth_client/'
-          },
-          {
-            title: 'Dummy OAuth using POSTMAN',
-            path: '/guides/dummy_using_postman/'
-          }
-        ]
-      },
-      {
-        title: 'Cat Metrics API',
-        path: '/guides/dummy_metrics_api/'
-      },
-      {
-        title: 'Migrating',
-        path: '/guides/migrating/'
-      },
-      {
-        title: 'Overview',
-        path: '/support/',
+        title: "UXP API Reference",
+        path: "api",
         header: true,
         pages: [
           {
-            title: 'Help',
-            path: '/support/'
+            title: "JavaScript Reference",
+            path: "/uxp-api/reference-js/",
+            pages: require("./reference-js.js"),
           },
           {
-            title: 'FAQ',
-            path: '/support/FAQ/'
+            title: "CSS Reference",
+            path: "/uxp-api/reference-css/",
+            pages: require("./reference-css.js"),
           },
           {
-            title: 'How to contribute',
-            path: '/support/contribute/'
-          }
-        ]
+            title: "HTML Reference",
+            path: "/uxp-api/reference-html/",
+            pages: require("./reference-html.js"),
+          },
+          {
+            title: "Spectrum UXP Reference",
+            path: "/uxp-api/reference-spectrum/",
+            pages: require("./reference-spectrum.js"),
+          },
+          {
+            title: "Known Issues",
+            path: "/uxp-api/known-issues/",
+          },
+        ],
       },
-      {
-        title: 'Community',
-        path: '/support/community/',
-        header: true,
-        pages: [
-          {
-            title: 'Information',
-            path: '/support/community/'
-          }
-        ]
-      }
     ]
   },
   plugins: [`@adobe/gatsby-theme-aio`]

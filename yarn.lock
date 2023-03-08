@@ -7526,6 +7526,7 @@ __metadata:
     gatsby: 4.22.0
     react: ^17.0.0
     react-dom: ^17.0.0
+    uxp-documentation: "github:adobedocs/uxp#v6.5.2"
   languageName: unknown
   linkType: soft
 
@@ -19214,6 +19215,13 @@ __metadata:
   bin:
     uuid: dist/bin/uuid
   checksum: 8dd2c83c43ddc7e1c71e36b60aea40030a6505139af6bee0f382ebcd1a56f6cd3028f7f06ffb07f8cf6ced320b76aea275284b224b002b289f89fe89c389b028
+  languageName: node
+  linkType: hard
+
+"uxp-documentation@github:adobedocs/uxp#v6.5.2":
+  version: 6.5.2
+  resolution: "uxp-documentation@https://github.com/adobedocs/uxp.git#commit=7d343ce716389308d4ca315b8f068df2abc56500"
+  checksum: 04321aaf8fe103111d9b182242a2198fb8b54605e3cfd3af94b1757028797780fcae18f353836b8121065ff63e5de84c16a864bdf06f0ff74c846299f22abb12
   languageName: node
   linkType: hard
 
