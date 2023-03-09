@@ -55,7 +55,7 @@ module.exports = {
     subPages: [
       {
         title: "UXP API Reference",
-        path: "api",
+        path: "uxp-api",
         header: true,
         pages: [
           {
