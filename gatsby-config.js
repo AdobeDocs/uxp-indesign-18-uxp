@@ -15,6 +15,10 @@ module.exports = {
   siteMetadata: {
     pages: [
       {
+        title: 'UXP for InDesign',
+        path: '/indesign/uxp/'
+      },
+      {
         title: 'Guides',
         path: '/indesign/uxp/guides/'
       },
@@ -31,7 +35,7 @@ module.exports = {
         menu: [
           {
             title: 'UXP API',
-            path: 'uxp-api',
+            path: '/uxp-api/',
           },
           {
             title: 'InDesign API',
@@ -55,7 +59,7 @@ module.exports = {
     subPages: [
       {
         title: "UXP API Reference",
-        path: "api",
+        path: "/uxp-api/",
         header: true,
         pages: [
           {
