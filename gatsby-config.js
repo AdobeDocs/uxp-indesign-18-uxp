@@ -44,6 +44,10 @@ module.exports = {
           {
             title: 'Recipes',
             path: '/indesign/uxp/recipes/'
+          },
+          {
+            title: 'What\'s New',
+            path: '/changelog/'
           }
         ]
       },
@@ -57,6 +61,32 @@ module.exports = {
       }
     ],
     subPages: [
+      {
+        title: 'Recipes',
+        path: '/indesign/uxp/recipes/',
+        pages: [
+          {
+            title: 'DOM Versioning',
+            path: '/indesign/uxp/recipes/dom-versioning'
+          },
+          {
+            title: 'Events',
+            path: '/indesign/uxp/recipes/events/'
+          },
+          {
+            title: 'Menus',
+            path: '/indesign/uxp/recipes/menus/'
+          },
+          {
+            title: 'Passing Arguments',
+            path: '/indesign/uxp/recipes/arguments/'
+          },
+          {
+            title: 'Setting Script Result',
+            path: '/indesign/uxp/recipes/script-result'
+          }
+        ]
+      },
       {
         title: "UXP API Reference",
         path: "/uxp-api/",
