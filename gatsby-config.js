@@ -47,7 +47,7 @@ module.exports = {
           },
           {
             title: 'What\'s New',
-            path: '/changelog/'
+            path: '/indesign/uxp/changelog/'
           }
         ]
       },
