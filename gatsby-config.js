@@ -39,11 +39,15 @@ module.exports = {
           },
           {
             title: 'InDesign API',
-            path: '/indesign/dom/api/',
+            path: '/indesign/dom/api/'
           },
           {
             title: 'Recipes',
             path: '/indesign/uxp/recipes/'
+          },
+          {
+            title: 'What\'s New',
+            path: '/indesign/uxp/changelog/'
           }
         ]
       },
