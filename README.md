@@ -1,42 +1,24 @@
-# Adobe I/O Documentation Template
+# UXP API Reference for InDesign
 
-This is a site template built with the [Adobe I/O Theme](https://github.com/adobe/aio-theme).
+For [InDesign documentation](https://developer.adobe.com/indesign/uxp/), there are multiple repo that come into play. 
 
-View the [demo](https://adobedocs.github.io/dev-site-documentation-template/) running on Github Pages.  
+This repo serves the content when the user clicks on [UXP API reference](https://developer.adobe.com/indesign/uxp/reference/uxp-api/). It shows the docs for the latest published UXP version available in InDesign. However, the tags can allow you to build an older or specific version locally. 
 
-## Where to ask for help
-
-The slack channel #adobeio-onsite-onboarding is our main point of contact for help. Feel free to join the channel and ask any questions. 
 
 ## How to develop
 
-For local development, simply use :
+For local development, simply use:
 ```
 $ yarn install
 $ yarn dev
 ```
 
-For the documentation developer, please read these sections on how to:
-- [Arrange the structure content of your docs](https://github.com/adobe/aio-theme#content-structure)
-- [Linking to pages](https://github.com/adobe/aio-theme#links)
-- [Using assets](https://github.com/adobe/aio-theme#assets)
-- [Setting Global Navigation](https://github.com/adobe/aio-theme#global-navigation)
-- [Setting Side Navigation](https://github.com/adobe/aio-theme#side-navigation)
-- [Using content blocks](https://github.com/adobe/aio-theme#jsx-blocks)
-- [Notes on using Markdown](https://github.com/adobe/aio-theme#writing-enhanced-markdown)
+The changes can be seen in http://localhost:8000/uxp-api/
 
-For more in-depth [instructions](https://github.com/adobe/aio-theme#getting-started).
+## How to make changes
 
-## How to deploy
-
-For any team that wishes to deploy to the developer.adobe.com and developer-stage.adobe.com websites, they must be in contact with the dev-site team. Teams will be given a path that will follow the pattern `developer.adobe.com/{product}/`. This will allow doc developers to setup their subpaths to look something like:
-```
-developer.adobe.com/{product}/docs
-developer.adobe.com/{product}/community
-developer.adobe.com/{product}/community/code_of_conduct
-developer.adobe.com/{product}/community/contribute
-```
-
-### Launching a deploy
-
-You can deploy using the GitHub actions deploy workflow see [deploy instructions](https://github.com/adobe/aio-theme#deploy-to-azure-storage-static-websites).
+1. Update the version of `uxp-documentation` in `package.json`.
+2. Bump the version in `package.json`. (Good practice to match it with the UXP version.)
+3. `$ yarn install`
+4. `$ yarn prepare-uxp`
+5. `$ yarn dev`
