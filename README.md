@@ -22,3 +22,5 @@ The changes can be seen in http://localhost:8000/uxp-api/
 3. `$ yarn install`
 4. `$ yarn prepare-uxp`
 5. `$ yarn dev`
+
+While publishing the changes, make sure the repo has a release tag (from the main branch) before you merge a new version.
