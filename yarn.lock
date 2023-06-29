@@ -7755,7 +7755,7 @@ __metadata:
     react-dom: ^17.0.0
     remark-cli: ^11.0.0
     remark-validate-links: ^12.1.0
-    uxp-documentation: "github:adobedocs/uxp#v6.5.2"
+    uxp-documentation: "github:adobedocs/uxp#v7.1.1"
   languageName: unknown
   linkType: soft
 
@@ -20209,10 +20209,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"uxp-documentation@github:adobedocs/uxp#v6.5.2":
-  version: 6.5.2
-  resolution: "uxp-documentation@https://github.com/adobedocs/uxp.git#commit=7d343ce716389308d4ca315b8f068df2abc56500"
-  checksum: 04321aaf8fe103111d9b182242a2198fb8b54605e3cfd3af94b1757028797780fcae18f353836b8121065ff63e5de84c16a864bdf06f0ff74c846299f22abb12
+"uxp-documentation@github:adobedocs/uxp#v7.1.1":
+  version: 7.1.1
+  resolution: "uxp-documentation@https://github.com/adobedocs/uxp.git#commit=0ec5211179f324469bc3dcc24d1082d6a3aea43e"
+  checksum: 74def8e594901338e40a7eb6d97e481b914e9f2c98991a9e7bdf4ca05fbc108efa682596113179bc7c0bbe6faacc6edaaa581b51ae0f27ab01ec762ce13cac93
   languageName: node
   linkType: hard
 
