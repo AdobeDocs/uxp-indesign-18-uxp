@@ -30,6 +30,22 @@ module.exports=[
           {
             "title": "fetch",
             "path": "/uxp-api/reference-js/Global Members/Data Transfers/fetch/"
+          },
+          {
+            "title": "FormData",
+            "path": "/uxp-api/reference-js/Global Members/Data Transfers/FormData/"
+          },
+          {
+            "title": "Headers",
+            "path": "/uxp-api/reference-js/Global Members/Data Transfers/Headers/"
+          },
+          {
+            "title": "Request",
+            "path": "/uxp-api/reference-js/Global Members/Data Transfers/Request/"
+          },
+          {
+            "title": "Response",
+            "path": "/uxp-api/reference-js/Global Members/Data Transfers/Response/"
           }
         ],
         "path": "/uxp-api/reference-js/Global Members/Data Transfers/"
@@ -525,6 +541,53 @@ module.exports=[
           {
             "title": "shell",
             "path": "/uxp-api/reference-js/Modules/uxp/shell/Shell"
+          },
+          {
+            "title": "User Information",
+            "path": "/uxp-api/reference-js/Modules/uxp/User Information/UserInfo/"
+          },
+          {
+            "title": "XMP",
+            "header": true,
+            "pages": [
+              {
+                "title": "XMPMeta",
+                "path": "/uxp-api/reference-js/Modules/uxp/XMP/XMP Classes/XMPMeta/"
+              },
+              {
+                "title": "XMPFile",
+                "path": "/uxp-api/reference-js/Modules/uxp/XMP/XMP Classes/XMPFile/"
+              },
+              {
+                "title": "XMPUtils",
+                "path": "/uxp-api/reference-js/Modules/uxp/XMP/XMP Classes/XMPUtils/"
+              },
+              {
+                "title": "XMPDateTime",
+                "path": "/uxp-api/reference-js/Modules/uxp/XMP/XMP Classes/XMPDateTime/"
+              },
+              {
+                "title": "XMPConst",
+                "path": "/uxp-api/reference-js/Modules/uxp/XMP/XMP Classes/XMPConst/"
+              },
+              {
+                "title": "XMPIterator",
+                "path": "/uxp-api/reference-js/Modules/uxp/XMP/XMP Classes/XMPIterator/"
+              },
+              {
+                "title": "XMPProperty",
+                "path": "/uxp-api/reference-js/Modules/uxp/XMP/XMP Classes/XMPProperty/"
+              },
+              {
+                "title": "XMPFileInfo",
+                "path": "/uxp-api/reference-js/Modules/uxp/XMP/XMP Classes/XMPFileInfo/"
+              },
+              {
+                "title": "XMPPacketInfo",
+                "path": "/uxp-api/reference-js/Modules/uxp/XMP/XMP Classes/XMPPacketInfo/"
+              },
+            ],
+            "path": "/uxp-api/reference-js/Modules/uxp/XMP/getting-started/"
           }
         ],
         "path": "/uxp-api/reference-js/Modules/uxp/"
