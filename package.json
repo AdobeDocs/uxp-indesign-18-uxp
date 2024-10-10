@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "dev-site-documentation-template",
-  "version": "7.3.0",
+  "version": "8.0.1",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
     "gatsby": "4.22.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
-    "uxp-documentation": "github:adobedocs/uxp#v7.3.0"
+    "uxp-documentation": "github:adobedocs/uxp#v8.0.1"
   },
   "scripts": {
     "start": "gatsby build && gatsby serve",
